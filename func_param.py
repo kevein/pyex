@@ -25,4 +25,3 @@ y = int(y1)
 
 printMax(x,y) # give variables as arguments
 print printMax.__doc__
-

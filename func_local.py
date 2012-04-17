@@ -9,4 +9,3 @@ def func(x):
 x=50
 func(x)
 print 'x is still',x
-
